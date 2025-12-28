@@ -16,7 +16,7 @@
 
 ## 快速开始
 ```bash
-git clone https://github.com/[USERNAME]/django-blog-system
+git clone https://github.com/SueNoyes/Django-Blog-System
 cd django-blog-system
 python -m venv venv
 # Windows
